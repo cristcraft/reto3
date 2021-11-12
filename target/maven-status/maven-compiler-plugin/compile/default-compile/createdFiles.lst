@@ -1,6 +1,0 @@
-com/ciclo3/ciclo3/model/Cloud.class
-com/ciclo3/ciclo3/service/CloudService.class
-com/ciclo3/ciclo3/web/CloudController.class
-com/ciclo3/ciclo3/repository/CloudRepository.class
-com/ciclo3/ciclo3/Ciclo3Application.class
-com/ciclo3/ciclo3/repository/crud/CloudCrudRepository.class
